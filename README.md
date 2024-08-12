@@ -1,4 +1,6 @@
 Followed and replicated the journal paper: Investigation on sintering mechanism of nanoscale tungsten powder based on atomistic simulation by Amitava Moitra , Sungho Kim , Seong-Gon Kim , Seong Jin Park  , Randall M. German , Mark F. Horstemeyer a  
+https://www.sciencedirect.com/science/article/pii/S1359645410001886?via%3Dihub
+
 
 
 Large-scale Atomic/Molecular Massively Parallel Simulato(LAMMPS) code was developed to replicate micromechanics based sintering behaviour in order to study and improve process parameters.
